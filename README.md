@@ -1,4 +1,4 @@
-# Advanced DCF Valuation Model
+# Automated DCF Valuation Model
 
 This project is a fundamental financial analysis tool built with Python and `yfinance` to calculate the intrinsic value of large-cap equities and determine if an asset is fundamentally overvalued or undervalued by the market.
 
